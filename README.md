@@ -1,2 +1,2 @@
-# soft_computing
-ML codes
+# Soft Computing
+Code involving neural network implimentaion from scratch
